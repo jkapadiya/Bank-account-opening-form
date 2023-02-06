@@ -1,0 +1,41 @@
+body {
+    background-color: #e1c1fb;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.small-heading:hover {
+    color: #BC1114;
+}
+.heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    color: #000000;
+}
+.input1 {
+    width: 300px;
+    padding: 14px;
+    margin: 8px 10px;
+    display: inline-block;
+    border: double;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.submit {
+    background-color: #4CAF50;
+    color: white;
+    padding: 13px;
+    margin: 8px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.submit:hover {
+    background-color: #45a049;
+}
+.inputsizesmall {
+    width: 100px;
+}
+.inputsizebig {
+    width: 665px;
+}
